@@ -1,0 +1,17 @@
+.flex-container{
+    background-color: sandybrown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+
+.flex-item{
+    background-color: orangered;
+    height: 150px;
+    padding: 50px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+
+}
